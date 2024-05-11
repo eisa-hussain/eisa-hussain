@@ -9,6 +9,10 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 -->
+<h2>🤓 Personal Projects / Repositories:</h2>
+
+
+
 <h2>📄 Certifications:</h2>
 - <b>Google Professional Cybersecurity Certificate</b>
   - Ongoing
