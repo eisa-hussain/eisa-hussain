@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eisa! <br/><a href="https://github.com/eisa-hussain">Programmer</a> and <a href="https://www.linkedin.com/in/eisa-hussain-0205b42b6">Aspiring Cybersecurity Professional!</a>
+<h1>Hi, I'm Eisa! <br/><a href="https://github.com/eisa-hussain">Programmer</a> and <a href="https://www.linkedin.com/in/eisa-hussain-0205b42b6">Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
