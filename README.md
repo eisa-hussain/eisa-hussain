@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eisa! <br/><a href="https://github.com/eisa-hussain">Programmer</a> and <a href="https://www.linkedin.com/in/eisa-hussain-0205b42b6">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Eisa! <br/><a href="https://github.com/eisa-hussain">Programmer</a> and <a href="https://www.linkedin.com/in/eisa-hussain-0205b42b6">Cybersecurity Professional</a>
 
 <h3></h3>
 <p>I am a hard working and self-disciplined aspiring cybersecurity analyst. I use my strong communication skills and programming background to actively work in a team to identify and analyze potential risks, threats and vulnerabilities in order to help safeguard organizations and people alike.</p>
