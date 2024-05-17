@@ -18,8 +18,8 @@
 
 
 <h2>📄 Certifications:</h2>
-- <b>Google Professional Cybersecurity Certificate</b>
-  - Ongoing
+<b>Google Professional Cybersecurity Certificate</b>
+   - Ongoing
 
   
 <!--
