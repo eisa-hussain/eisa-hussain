@@ -6,9 +6,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <!--
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Mock Incident Report Analysis (Part of the Google Professional Cybersecurity Certificate)</b>
+  - [Mock-Incident-Report-Analysis](https://github.com/eisa-hussain/Mock-Incident-Report-Analysis)
 -->
+- <b>Mock Incident Report Analysis (Part of the Google Professional Cybersecurity Certificate)</b>
+  - [Mock-Incident-Report-Analysis](https://github.com/eisa-hussain/Mock-Incident-Report-Analysis)
+- <b>Mock Internal Security Audit (Part of the Google Professional Cybersecurity Certificate)</b>
+  - [Mock-Incident-Security-Audit](https://github.com/eisa-hussain/Mock-Internal-Security-Audit)
 <h2>🤓 Personal Projects / Repositories:</h2>
 
 
