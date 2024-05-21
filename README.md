@@ -9,6 +9,8 @@
 - <b>Mock Incident Report Analysis (Part of the Google Professional Cybersecurity Certificate)</b>
   - [Mock-Incident-Report-Analysis](https://github.com/eisa-hussain/Mock-Incident-Report-Analysis)
 -->
+ - <b>Applying filters to SQL queries (Part of the Google Professional Cybersecurity Certificate)</b>
+    - [Apply-Filters-To-SQL-Queries](https://github.com/eisa-hussain/Apply-Filters-To-SQL-Queries)
 - <b>Mock Incident Report Analysis (Part of the Google Professional Cybersecurity Certificate)</b>
   - [Mock-Incident-Report-Analysis](https://github.com/eisa-hussain/Mock-Incident-Report-Analysis)
 - <b>Mock Internal Security Audit (Part of the Google Professional Cybersecurity Certificate)</b>
