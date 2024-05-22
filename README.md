@@ -17,6 +17,8 @@
   - [Mock-Incident-Security-Audit](https://github.com/eisa-hussain/Mock-Internal-Security-Audit)
 - <b>File Permissions in Linux (Part of the Google Professional Cybersecurity Certificate)</b>
   - [Linux-Commands-Manage-File-Permissions](https://github.com/eisa-hussain/Linux-Commands-Manage-File-Permissions)
+- <b>Mock Vulnerability Assessment Report</b>
+  - [Mock-Vulnerability-Assessment-Report](https://github.com/eisa-hussain/Mock-Vulnerability-Assessment-Report)
 <h2>🤓 Personal Projects / Repositories:</h2>
 
 
