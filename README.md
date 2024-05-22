@@ -9,13 +9,13 @@
 - <b>Mock Incident Report Analysis (Part of the Google Professional Cybersecurity Certificate)</b>
   - [Mock-Incident-Report-Analysis](https://github.com/eisa-hussain/Mock-Incident-Report-Analysis)
 -->
- - <b>Applying filters to SQL queries (Part of the Google Professional Cybersecurity Certificate)</b>
+ - <b>Applying filters to SQL queries</b>
     - [Apply-Filters-To-SQL-Queries](https://github.com/eisa-hussain/Apply-Filters-To-SQL-Queries)
-- <b>Mock Incident Report Analysis (Part of the Google Professional Cybersecurity Certificate)</b>
+- <b>Mock Incident Report Analysis</b>
   - [Mock-Incident-Report-Analysis](https://github.com/eisa-hussain/Mock-Incident-Report-Analysis)
-- <b>Mock Internal Security Audit (Part of the Google Professional Cybersecurity Certificate)</b>
+- <b>Mock Internal Security Audit</b>
   - [Mock-Incident-Security-Audit](https://github.com/eisa-hussain/Mock-Internal-Security-Audit)
-- <b>File Permissions in Linux (Part of the Google Professional Cybersecurity Certificate)</b>
+- <b>File Permissions in Linux</b>
   - [Linux-Commands-Manage-File-Permissions](https://github.com/eisa-hussain/Linux-Commands-Manage-File-Permissions)
 - <b>Mock Vulnerability Assessment Report</b>
   - [Mock-Vulnerability-Assessment-Report](https://github.com/eisa-hussain/Mock-Vulnerability-Assessment-Report)
