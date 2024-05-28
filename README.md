@@ -28,6 +28,8 @@
 <h2>📄 Certifications:</h2>
 - <b>Google Cybersecurity Professional Certificate</b>
 <br>
+- <b>Qualys Vulnerability Management Detection and Response</b>
+<br>
 - <b>CompTIA Security+ </b> (Ongoing)
 
   
