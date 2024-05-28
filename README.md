@@ -26,8 +26,9 @@
 
 
 <h2>📄 Certifications:</h2>
-<b>Google Professional Cybersecurity Certificate</b>
-   - Ongoing
+- <b>Google Cybersecurity Professional Certificate</b>
+<br>
+- <b>CompTIA Security+ </b> (Ongoing)
 
   
 <!--
