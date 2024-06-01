@@ -5,10 +5,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
+- <b>Creating a Live SOC / Honey Net in Azure</b>
+  - [Azure-Honey-Net](https://github.com/eisa-hussain/Azure-Honey-Net)
 - <b>Creating a Virtual Active Directory Environment with VirtualBox</b>
   - [Active-Directory-Environment](https://github.com/eisa-hussain/Active-Directory-Environment)
-
  - <b>Applying filters to SQL queries</b>
     - [Apply-Filters-To-SQL-Queries](https://github.com/eisa-hussain/Apply-Filters-To-SQL-Queries)
 - <b>Mock Incident Report Analysis</b>
