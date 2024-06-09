@@ -7,6 +7,8 @@
 
 - <b>Creating a Live SOC / Honey Net in Azure</b>
   - [Azure-Honey-Net](https://github.com/eisa-hussain/Azure-Honey-Net)
+- <b>Creating a File Integrity Monitor in Python</b>
+  - [File-Integrity-Monitor](https://github.com/eisa-hussain/file-integrity-monitor)
 - <b>Creating a Virtual Active Directory Environment with VirtualBox</b>
   - [Active-Directory-Environment](https://github.com/eisa-hussain/Active-Directory-Environment)
  - <b>Applying filters to SQL queries</b>
